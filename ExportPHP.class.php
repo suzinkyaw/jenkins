@@ -1,5 +1,5 @@
 <?php
-class ExportPHP
+class ExportPH
 {
  // method for Excel file
     function setHeaderXLS($file_name)
